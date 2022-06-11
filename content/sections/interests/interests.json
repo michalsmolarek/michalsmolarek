@@ -1,65 +1,72 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Flutter",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/icons/Flutter.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "BloC",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/icons/bloc.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Provider",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/icons/Flutter.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "getX",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/icons/getx.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "noSQL",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/icons/nosql.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "API",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/icons/api.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Wordpress",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/icons/wordpress.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "JS",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/icons/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "UI",
+      "image": {
+        "src": "../../images/icons/ui.png",
         "alt": ""
       }
     }
   ],
   "button": {
     "visible": true,
-    "label": "+ Load More",
+    "label": "+ Pokaż więcej",
     "initiallyShownInterests": 5
   }
 }

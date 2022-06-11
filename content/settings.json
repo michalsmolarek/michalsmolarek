@@ -1,38 +1,36 @@
 {
   "siteMetadata": {
-    "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "language": "pl",
+    "siteUrl": "https://smolarek.dev",
+    "title": "Michał Smolarek | Flutter Developer",
+    "titleTemplate": "%s · Michał Smolarek",
+    "description": "Michał Smolarek",
+    "author": "Michał Smolarek",
+    "avatar": "../static/head.svg",
+    "bio": "Michał Smolarek - programista aplikacji mobilnych we Flutterze.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/michalsmolarek",
+      "linkedin": "https://www.linkedin.com/in/smolarekmichal/",
+      "mail": "mailto:michal@smolarek.dev"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Michał Smolarek" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        { "label": "O mnie", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Technologie", "url": "/#Technologie" }
+        
       ],
       "ctaButton": {
-        "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "openNewTab": false,
+        "label": "Kontakt",
+        "url": "#github"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Polityka prywatności", "url": "/privacy" },
+        { "label": "CV", "url": "/cv" }
       ]
     },
     "featureToggles": {

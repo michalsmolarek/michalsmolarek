@@ -1,0 +1,21 @@
+.Logo {
+    position: relative;
+    z-index: 13;
+    font-size: 1.75rem;
+    font-weight: 900;
+    color: var(--primary-color);
+    /* Disable effects when sidebar is open */
+    filter: none !important;
+    pointer-events: auto !important;
+    user-select: auto !important;
+}
+
+.imglogo {
+    max-width: 300px;
+}
+
+@media screen and (max-width: 480px) {
+    .imglogo {
+        max-width: 190px;
+    }
+}
