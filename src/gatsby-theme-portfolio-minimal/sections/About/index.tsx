@@ -18,7 +18,7 @@ export function AboutSection(props: PageSection): React.ReactElement {
                     <div className={classes.Description} dangerouslySetInnerHTML={{ __html: data.html }} />
                     <Animation type="fadeLeft" delay={200}>
                         <div className={classes.ImageWrapper}>
-                           <img src={aboutImage} className={classes.ImageWrapper} alt={data.frontmatter.imageAlt} />
+                           <img width={300} src={aboutImage} className={classes.ImageWrapper} alt={data.frontmatter.imageAlt} />
                         </div>
                     </Animation>
                 </div>

@@ -14,9 +14,9 @@ export function CookieBar(): React.ReactElement {
             <CookieConsent
                 cookieName="gatsby-gdpr-google-analytics"
                 buttonId="confirm"
-                buttonText="Accept"
+                buttonText="Akceptuję"
                 declineButtonId="decline"
-                declineButtonText="Decline"
+                declineButtonText="Nie akceptuję"
                 enableDeclineButton={true}
                 disableStyles={true}
                 onAccept={() => initializeAndTrack(location)}

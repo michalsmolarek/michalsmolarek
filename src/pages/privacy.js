@@ -6,7 +6,7 @@ export default function PrivacyPage() {
     <>
       <Seo title="Privacy Policy" useTitleTemplate={true} noIndex={true} />
       <Page>
-        <LegalSection sectionId="privacy" heading="Privacy Policy" />
+        <LegalSection sectionId="privacy" heading="Polityka prywatności" />
       </Page>
     </>
   );

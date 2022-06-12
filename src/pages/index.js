@@ -14,7 +14,7 @@ export default function IndexPage() {
   return (
     <>
       <Seo title="Michał Smolarek | Mobile Dev" />
-      <Page useSplashScreenAnimation>
+      <Page>
         <HeroSection sectionId="hero" />
         <ArticlesSection sectionId="articles" heading="Artykuły" sources={['Blog']} />
         <AboutSection sectionId="about" heading="O mnie" />
