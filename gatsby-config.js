@@ -19,10 +19,25 @@ module.exports = {
           usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
         },
         googleAnalytics: {
-            trackingId: "G-1XREYF5L5C",
-            anonymize: true, // Default true
-            environments: ["production"] // Default ["production"]
-        }
+          trackingId: "G-1XREYF5L5C",
+          anonymize: true, // Default true
+          environments: ["production"], // Default ["production"]
+        },
+      },
+    },
+    "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 900,
+            },
+          },
+        ],
       },
     },
   ],

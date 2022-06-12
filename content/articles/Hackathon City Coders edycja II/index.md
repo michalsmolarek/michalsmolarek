@@ -22,4 +22,4 @@ Naszym pomysłem była aplkikacja, która w czasie rzeczywistym pokazuje ilość
 
 ### Wynik
 
-Dzięki sprawnej prezentacji oraz animacją 3D udało nam się zająć 3. miejsce.
+Dzięki sprawnej prezentacji oraz animacji 3D udało nam się zająć 3. miejsce.

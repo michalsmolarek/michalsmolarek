@@ -18,7 +18,7 @@ keywords:
 
 ## Kwalifikacja
 
-Do udziału w Start in Park zostałem zaproszony wraz z drużyną po zajęciu III miejsca na Płocki Hackathonie City Coders.
+Do udziału w Start in Park zostałem zaproszony wraz z drużyną po zajęciu III miejsca na Płockim Hackathonie City Coders.
 
 ## Przebieg akceleracji
 

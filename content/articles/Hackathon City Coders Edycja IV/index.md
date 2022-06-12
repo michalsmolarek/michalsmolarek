@@ -5,7 +5,7 @@ date: '2021-05-28'
 banner:
     src: '../../images/h4.jpg'
     alt: 'Hackathon edycja IV'
-    caption: 'Zdjęcie wykonane podczas gali <u><a href="https://nowy.plock.eu/mieszkaniec/hackathon-plocki-maraton-programistyczny-za-nami/">czwartej edycji płockiego hackathonu</a></u>'
+    caption: 'Zdjęcie wykonane podczas gali <u><a href="https://mazowiecka.edu.pl/city-coders-hackathon-plock-za-nami/">czwartej edycji płockiego hackathonu</a></u>'
 categories:
     - 'Hackathon'
 keywords:
@@ -18,7 +18,9 @@ keywords:
 
 ### Czwarta edycja hackathonu City Coders
 
-Podaczas tej edycji ja i mój zespół zajęliśmy trzecie miejsce. Aplikacja, którą nagrodzono to nasze autorskie rozwiązanie służące do sprawdzania ile osób znajduje się w danej strefie.
+Podaczas tej edycji ja i mój zespół zajęliśmy trzecie miejsce. Aplikacja, którą nagrodzono to nasze autorskie rozwiązanie służące do sprawdzania ile osób znajduje się w danej strefie. Aplikacja wspomaga proces ewakuacji a także może zostać użyta jako narzędzie analityczne.
+
+![Hopper The Rabbit](../../images/h4-2.jpg)
 
 ### Start in Park
 
