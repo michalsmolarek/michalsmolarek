@@ -26,4 +26,4 @@ Cały proces trwa od lutego. W ramach szkoleń miałem okazję poznać jak buduj
 
 ## Demo day
 
-14 czerwca odbędzie się demo day. Razem z drużyną liczymy na jak najlepszy wynik dla naszej aplikacji Safeit.
+14 czerwca odbyło się demo day, gdzie wszyscy zaprezentowali swoje rozwiązania. To był ostatni dzień przygody ze Start in Park.
