@@ -22,9 +22,9 @@
       }
     },
     {
-      "label": "getX",
+      "label": "Freezed",
       "image": {
-        "src": "../../images/icons/getx.png",
+        "src": "../../images/wrench.png",
         "alt": ""
       }
     },
@@ -43,23 +43,23 @@
       }
     },
     {
-      "label": "Wordpress",
+      "label": "Clean Architecture",
       "image": {
-        "src": "../../images/icons/wordpress.png",
+        "src": "../../images/icons/Flutter.png",
         "alt": ""
       }
     },
     {
-      "label": "JS",
+      "label": "Injectable",
       "image": {
-        "src": "../../images/icons/js.png",
+        "src": "../../images/wrench.png",
         "alt": ""
       }
     },
     {
-      "label": "UI",
+      "label": "App Store / Play Store",
       "image": {
-        "src": "../../images/icons/ui.png",
+        "src": "../../images/shopping-bags.png",
         "alt": ""
       }
     }

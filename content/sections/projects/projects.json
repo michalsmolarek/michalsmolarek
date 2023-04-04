@@ -5,13 +5,17 @@
       "category": "📱 Aplikacja",
       "title": "Aplikacja Tu-Du",
       "description": "Zapisuj najważniejsze rzeczy w szybkiej apce, która działa w 100% offline.",
-      "tags": ["Flutter", "Provider", "Hive"],
+      "tags": ["Flutter", "Provider", "Hive", "Play Store", "App Store"],
       "image": {
         "src": "../../images/tudu.png",
         "alt": "Aplikacja tu-du",
         "linkTo": "https://play.google.com/store/apps/details?id=pl.michalsmolarek.todoey"
       },
       "links": [
+        {
+          "type": "external",
+          "url": "https://apps.apple.com/pl/app/tu-du/id1658384299?l=pl"
+        },
         {
           "type": "external",
           "url": "https://play.google.com/store/apps/details?id=pl.michalsmolarek.todoey"

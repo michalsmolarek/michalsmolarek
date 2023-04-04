@@ -1,0 +1,25 @@
+.Projects {
+    display: flex;
+    flex-direction: row;
+    margin-top: -2rem;
+}
+
+.MoreProjects {
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.MoreProjects a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+@media (min-width: 992px) {
+    .Projects {
+        flex-direction: column;
+        margin-top: 0;
+    }
+    .MoreProjects {
+        margin-top: 0;
+    }
+}

@@ -13,7 +13,7 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Michał Smolarek | Mobile Dev" />
+      <Seo title="Michał Smolarek | Flutter Dev" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <ArticlesSection sectionId="articles" heading="Artykuły" sources={['Blog']} />
